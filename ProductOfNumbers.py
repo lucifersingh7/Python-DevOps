@@ -8,7 +8,7 @@ fifth_num = int(input("Enter number : "))
 sixth_num = int(input("Enter number : "))
 seventh_num = int(input("Enter number : "))
 
-numbers = [first_num,second_num,third_num,fourth_num,fifth_num,sixth_num,seventh_num]
+numbers = [first_num,second_num,third_num,fourth_num,fifth_num,sixth_num,seventh_num]   #list or array
 
 def show_product(numbers) :
     result = 1
